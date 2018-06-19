@@ -1,0 +1,85 @@
+
+
+
+people can deploy goods for some ether. 
+
+
+buyer USer.
+1.address ->  cotract.
+
+2.check the amount of deposit.
+
+3.lookup matching.
+
+4. contract on being ready to get executed.
+
+
+
+
+seller User.
+1. create contract.
+
+2. deloy and cast to buyer.
+
+3.
+
+
+
+developer 
+1. create contract frame for seller.
+
+
+
+
+server
+
+1. data mining.
+
+2. deterministic ads plan on recommendation.
+
+3. seller can pay for this contract.
+
+4.//closed pratform. seller has to go to the closed pratform to get information of feed anyway.
+
+
+
+
+
+
+
+
+
+
+seller -> contract(casted) ---->  <--- fetch --- database(private data mining) ----fetch--->    (caste)contract  <----  buyer.
+  
+seller <-----  database(publicapi)---> fetch  <----  contract(casted)   <---- developer
+
+
+
+
+seller -> contract(includeing logic of things that is securely verified)
+
+seller can also depoy collective token.
+
+deployed collective token is brought and shared in other service. 
+
+
+
+collective token on the contract, gives access to multi sig .
+
+api support to fetch all the network.
+
+
+
+
+
+contract is casted to database.
+
+
+
+require auth to be a merchant .
+
+
+deposit and up to 10 people.
+
+
