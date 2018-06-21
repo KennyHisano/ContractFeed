@@ -14,4 +14,4 @@ KittyBase <- KittyAccessControl
 
 Base contract (erc271) <-- Access Control.
 
-![](https://imgur.com/a/x6areuJ)
+![kitties](https://imgur.com/a/x6areuJ)
