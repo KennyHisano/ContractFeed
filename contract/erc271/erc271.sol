@@ -1,4 +1,6 @@
 // @title Interface for contracts conforming to ERC-721: Non-Fungible Tokens
+// @author Kenny Hisano(https://github.com/KennyHisano)
+
 
 contract ERC721 {
     // Required methods
@@ -22,3 +24,5 @@ contract ERC721 {
     // ERC-165 Compatibility (https://github.com/ethereum/EIPs/issues/165)
     function supportsInterface(bytes4 _interfaceID) external view returns (bool);
 }
+
+
