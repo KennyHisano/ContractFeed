@@ -14,4 +14,4 @@ KittyBase <- KittyAccessControl
 
 Base contract (erc271) <-- Access Control.
 
-
+![alt text](https://github.com/KennyHisano/ContractFeed/blob/master/Untitled%20Diagram.pdf)
