@@ -83,3 +83,21 @@ require auth to be a merchant .
 deposit and up to 10 people.
 
 
+
+
+
+--------------------
+offchains 
+
+-cli
+
+-dataming 
+
+-developer tool
+
+-offchain
+
+
+-more deposit eth, more unlimited it gets.
+
+ 
